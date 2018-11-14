@@ -1589,6 +1589,10 @@ RTL TVI:Europe/Brussels
 RTL Television:Europe/Berlin
 RTL Televizija:Europe/Zagreb
 RTL4:Europe/Amsterdam
+RTL5:Europe/Amsterdam
+RTL6:Europe/Amsterdam
+RTL7:Europe/Amsterdam
+RTL8:Europe/Amsterdam
 RTL:Europe/Luxembourg
 RTM2 (MY):Asia/Kuala_Lumpur
 RTP Açores:Europe/Lisbon
